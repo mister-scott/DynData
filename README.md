@@ -6,7 +6,7 @@ A nested dictionary class for Python.
 
 You can install the package using pip:
 
-pip install git+https://github.com/yourusername/nested_dict.git
+`pip install git+https://github.com/yourusername/nested_dict.git`
 
 
 ## Usage
