@@ -14,3 +14,6 @@ class NestedDict(defaultdict):
 
     def __dict__(self):
         return self.asdict()
+
+    def to_dict(self):
+        return self.asdict()
