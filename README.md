@@ -11,6 +11,7 @@ You can install the package using pip:
 
 ## Usage
 
+```python
 from nested_dict import NestedDict
 
 nested = NestedDict()
@@ -19,4 +20,4 @@ nested['a']['g'] = 'more of the same'
 
 print(nested)
 print(nested.asdict())
-
+```
