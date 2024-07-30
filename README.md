@@ -1,12 +1,21 @@
-# nested_dict
+# dynData
 
-A nested dictionary class for Python.
+A library of flexible datatypes for use in any old operation.
+
 
 ## Installation
 
 You can install the package using pip:
 
-`pip install git+https://github.com/yourusername/nested_dict.git`
+`pip install git+https://github.com/mister-scott/dynData.git`
+
+## nested_dict
+
+A nested dictionary class for Python.
+
+## DynamicClass
+
+A class type which can construct its parameters from a dictionary.
 
 
 ## Usage
